@@ -1,0 +1,4 @@
+D:\MvvmDemoApp\DemoApp\obj\Debug\DemoApp.exe
+D:\MvvmDemoApp\DemoApp\obj\Debug\DemoApp.pdb
+D:\MVVMkms\DemoApp\obj\Debug\DemoApp.exe
+D:\MVVMkms\DemoApp\obj\Debug\DemoApp.pdb

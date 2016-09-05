@@ -1,0 +1,17 @@
+D:\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.g.resources
+D:\MvvmDemoApp\UnitTests\bin\Debug\UnitTests.dll
+D:\MvvmDemoApp\UnitTests\bin\Debug\UnitTests.pdb
+D:\MvvmDemoApp\UnitTests\bin\Debug\DemoApp.exe
+D:\MvvmDemoApp\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MvvmDemoApp\UnitTests\bin\Debug\DemoApp.pdb
+D:\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.dll
+D:\MvvmDemoApp\UnitTests\obj\Debug\UnitTests.pdb
+D:\MVVMkms\UnitTests\bin\Debug\UnitTests.dll
+D:\MVVMkms\UnitTests\bin\Debug\UnitTests.pdb
+D:\MVVMkms\UnitTests\bin\Debug\DemoApp.exe
+D:\MVVMkms\UnitTests\bin\Debug\DemoApp.pdb
+D:\MVVMkms\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\MVVMkms\UnitTests\obj\Debug\UnitTests.g.resources
+D:\MVVMkms\UnitTests\obj\Debug\UnitTests.dll
+D:\MVVMkms\UnitTests\obj\Debug\UnitTests.pdb
